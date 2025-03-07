@@ -69,4 +69,4 @@ The final milestone covers **fault handling improvements, process scheduling, an
 
 The **FOS project** has provided valuable experience in understanding how **operating systems manage memory, processes, and system resources**. Through this project, we have gained **practical insights into system-level programming**, which will be beneficial for future **OS-related development and research**.  
 
-This project not only strengthened our **C programming skills** but also enhanced our ability to design **efficient and optimized system software**. 🚀  
+This project not only strengthened our **C programming skills** but also enhanced our ability to design **efficient and optimized system software**. 
